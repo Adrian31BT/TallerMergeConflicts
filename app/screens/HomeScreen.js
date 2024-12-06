@@ -24,7 +24,7 @@ export const Home = ({ navigation }) => {
                 }}
                 title='PRODUCTOS'
                 onPress={() => {
-                    navigation.navigate('ProductNav');
+                    navigation.navigate('ProductNavigation');
                 }}
             />
 
